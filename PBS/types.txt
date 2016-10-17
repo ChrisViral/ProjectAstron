@@ -135,7 +135,7 @@ Immunities=DRAGON
 
 [20]
 Name=Astral
-InternalNAme=ASTRAL
+InternalName=ASTRAL
 IsSpecialType=true
 Weaknesses=POISON,PSYCHIC
 Resistances=FIRE,BUG,GHOST,FAIRY
